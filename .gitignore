@@ -1,0 +1,7 @@
+# Data directories
+data/raw/
+data/interim/
+data/processed/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
