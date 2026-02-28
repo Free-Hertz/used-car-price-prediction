@@ -51,7 +51,16 @@ All final metrics are reported on both log scale and original dollar scale.
 ## Dataset & Preprocessing
 
 Original dataset: ~426,000 rows  
-Final modeling dataset: ~390,000 rows  
+Final modeling dataset: ~390,000 rows
+
+Original dataset: [Craigslist Cars and Trucks Data - Austin Rees (Kaggle) : https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data]
+
+Due to size constraints, the dataset is not included in this repository.
+
+To reproduce results:
+1. Download the dataset from the source link.
+2. Place it in `data/raw/`.
+3. Run notebooks in order.
 
 ### Data Cleaning Steps
 
