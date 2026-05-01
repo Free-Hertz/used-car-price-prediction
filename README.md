@@ -126,19 +126,19 @@ The app allows users to input car details and get a predicted price instantly.
 ## Project Structure
 used-car-price-prediction/
 
-|-- data/ (ignored in git)
-| |-- raw/
-| |-- interim/
-| |-- processed/
-|-- notebooks/
-| |-- 01_target_preprocessing.ipynb
-| |-- 02_feature_cleaning_preprocessing.ipynb
-| |-- 03_linear_models.ipynb
-| |-- 04_tree_models.ipynb
-| |-- 05_final_model_training_and_evaluation.ipynb
-|-- models/ (ignored in git)
-|-- requirements.txt
-|-- README.md
+- |-- data/ (ignored in git)
+- | |-- raw/
+- | |-- interim/
+- | |-- processed/
+- |-- notebooks/
+- | |-- 01_target_preprocessing.ipynb
+- | |-- 02_feature_cleaning_preprocessing.ipynb
+- | |-- 03_linear_models.ipynb
+- | |-- 04_tree_models.ipynb
+- | |-- 05_final_model_training_and_evaluation.ipynb
+- |-- models/ (ignored in git)
+- |-- requirements.txt
+- |-- README.md
 
 ---
 
